@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GCS Trainer</string>
+    <string name="optionen">Optionen</string>
+    <string name="start">Start</string>
+    <string name="statistik">Statistik</string>
+    <string name="gcs_trainer">GCS Trainer</string>
+</resources>
